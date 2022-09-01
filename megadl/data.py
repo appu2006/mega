@@ -8,64 +8,41 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 Messages = {
     "dl": """
 **Here is The Help Of Mega.nz Downloader Module**
-
-
   ✘ Send me a Mega.nz file/folder link. (Use `/megapy` command for old `mega.py` download engine)
-
   ✘ Wait Till It Download and Upload to Telegram.
-
-
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with the repo of @NexaBotsUpdates**    
 """,
 
     "up": """
 **Here is The Help Of Mega.nz Uploader Module**
-
-
   ✘ First Send or Forward a File to Me. You can also send me a direct link.
-
   ✘ Then Reply to that file with `/upload` command.
-
   ✘ Wait till It Download and Upload to Mega.nz
   
-
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with the repo of @NexaBotsUpdates**
 """,
 
     "import": """
 "**Here is The Help Of Mega.nz Url Importer Module**
-
-
   ✘ Send or Reply to a Public Mega.nz url with `/import` Command (**Usage:** `/import your_mega_link`)
   
   ✘ Wait till It Finish
-
-
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with the repo of @NexaBotsUpdates**    
 """,
 
     "file_info": """
 **Here is The Help Of Get File Info Via Inline Module**
-
-
   ✘ Go to any chat
-
   ✘ Type: `{uname} details` and after that give a one space and paste your mega.nz link (**Usage:** `{uname} details your_mega_link`)
-
-
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with the repo of @NexaBotsUpdates**
 """,
 
     "acc_info": """
 **Here is The Help Of Get Account Info Via Inline Module**
-
-
   ✘ Go to any chat (This will send your mega.nz account data so better do this in a private chat)
   
   ✘ Type: `{uname} info` (**Usage:** `{uname} info`)
-
-
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with the repo of @NexaBotsUpdates**
 """
 }
 
@@ -153,7 +130,6 @@ B_START_TEXT = """
  / /|_/ / -_) _ `/ _ `/ _   / _ \/_ /  /___/ / _  / _ \/ __/
 /_/  /_/\__/\_, /\_,_/ (_) /_//_//__/       /____/\___/\__/ 
            /___/
-
 Process: {}
 """
 
@@ -175,19 +151,10 @@ ERROR_TEXT = """
 |  _| | '__| '__/ _ \| '__|
 | |___| |  | | | (_) | |   
 |_____|_|  |_|  \___/|_|  
-
 Log: {}
-
 Save the Log file and Send it to @Nexa_bots for Help :)
 """
 
 START_TEXT="""
-    _   __                   ____        __      
-   / | / /__  _  ______ _   / __ )____  / /______
-  /  |/ / _ \| |/_/ __ `/  / __  / __ \/ __/ ___/
- / /|  /  __/>  </ /_/ /  / /_/ / /_/ / /_(__  ) 
-/_/ |_/\___/_/|_|\__,_/  /_____/\____/\__/____/ 
-
-
-Bot is Running Now! Join @NexaBotsUpdates
+Bot is Running Now
 """
