@@ -38,6 +38,8 @@ Check out [config.sample file](https://github.com/Itz-fork/Mega.nz-Bot/blob/main
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Itz-fork/X-Bin-Patch#deployment)
 
+### RAILWAY
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/fGZT21?referralCode=akash2006)
 ### With VPS/PC
 ---
 **Tip 💡:**
